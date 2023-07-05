@@ -12,7 +12,7 @@ This project focuses on visualizing COVID-19 vaccination and death data using Ta
 ## Links:
 ### Excel Cleaned Data
 - [Covid Vaccination](https://github.com/Tayyaba-Abro/SQL-Project/blob/main/CovidVaccinations.xlsx)
-- [Covid Deaths](  )
+- [Covid Deaths](https://github.com/Tayyaba-Abro/SQL-Project/blob/main/CovidDeaths.xlsx)
 
 ### Tableau
 - [Covid Dashboard](https://public.tableau.com/views/CovidDashboardFinal_16856252654640/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
