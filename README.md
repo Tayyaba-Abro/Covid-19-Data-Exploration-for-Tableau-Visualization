@@ -1,4 +1,4 @@
-# Data Exploration using SQL Queries for Tableau Visualization
+# Covid 19 Data Exploration using SQL Queries for Tableau Visualization
 
 ## Overview:
 This project focuses on visualizing COVID-19 vaccination and death data using Tableau. The project utilizes data from the source ['Our World in Data'](https://ourworldindata.org/covid-deaths) and aims to provide insights into the global impact of COVID-19.
@@ -14,6 +14,9 @@ This project focuses on visualizing COVID-19 vaccination and death data using Ta
 - [Covid Vaccination](https://github.com/Tayyaba-Abro/SQL-Project/blob/main/CovidVaccinations.xlsx)
 - [Covid Deaths](https://github.com/Tayyaba-Abro/SQL-Project/blob/main/CovidDeaths.xlsx)
 
+### SQL Query 
+- [Data Extraction for Tableau Visualization](https://github.com/Tayyaba-Abro/SQL-Project/blob/main/Data%20Exploration%20for%20Tableau%20Visualization.sql)
+- 
 ### Tableau
 - [Covid Dashboard](https://public.tableau.com/views/CovidDashboardFinal_16856252654640/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
   
